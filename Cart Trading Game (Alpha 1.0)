@@ -108,5 +108,6 @@ print("Buy and sell from the traing cart to make a profit")
 print(f"It is day {day}")
 main_menu(day,gold)
 
-#Current_Goal:
-#Bugs: Gold Rounding error
+#High Importance Bugs:
+#Low Importance Bugs: Gold Rounding Error
+#Ideas:
